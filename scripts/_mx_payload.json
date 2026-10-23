@@ -1,0 +1,515 @@
+{
+ "parent": {
+  "title_differentiation": [
+   {
+    "value": "Non-Slip Ergonomic Handle, Lightweight 72g Design, For Beef, Pork & Brisket, Easy Rinse Clean, Home & Commercial Use",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "variation_theme": [
+   {
+    "name": "COLOR"
+   }
+  ],
+  "included_components": [
+   {
+    "value": "Manual Fat Trimmer X 1",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "skip_offer": [
+   {
+    "value": false,
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "manufacturer": [
+   {
+    "value": "EAOEIHD",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "item_weight": [
+   {
+    "unit": "ounces",
+    "value": 2.54,
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "model_name": [
+   {
+    "value": "5X-Q1H6-6BP1-mx",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "bullet_point": [
+   {
+    "value": "Sharp Stainless Steel Blade: Slices smoothly through beef, pork, and brisket fat, simplifying meat preparation before cooking.",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   },
+   {
+    "value": "Versatile Meat Prep Tool: Combines cutting and trimming functions to handle a wide range of meat processing tasks for daily kitchen use.",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   },
+   {
+    "value": "Easy to Clean and Portable: Rinses clean easily with water; lightweight design at approximately 2.5 oz ensures comfortable handling during kitchen work.",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   },
+   {
+    "value": "Precision Trimming for Any Kitchen: Removes excess fat and creates uniform portions, reducing prep time and boosting efficiency in both home and commercial kitchens.",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   },
+   {
+    "value": "Ergonomic Non-Slip Handle: Contoured grip with a non-slip surface provides stable, firm control while trimming, helping to reduce hand discomfort during use.",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "product_description": [
+   {
+    "value": "This Manual Fat Trimmer is a practical and efficient kitchen tool designed to simplify meat preparation. Featuring a sharp stainless steel blade, it slices smoothly through fat on beef, pork, brisket, and steak, helping you achieve clean, uniform portions with minimal effort. Whether you're prepping for a weeknight dinner or handling larger quantities in a commercial kitchen, this trimmer combines cutting and trimming functions to handle a wide range of meat processing tasks. Measuring approximately 5.5 x 2.75 inches and weighing just about 2.5 oz, it's lightweight and easy to maneuver. The ergonomic, non-slip handle is contoured to fit comfortably in your hand, providing stable, firm control throughout use and helping to reduce hand fatigue. Constructed from durable stainless steel and ABS with a thermoplastic handle, this trimmer is built for repeated use and rinses clean easily with water. A hanging hole at the base of the handle makes storage convenient. Ideal for both home cooks and culinary professionals, this fat trimmer reduces prep time and boosts efficiency in the kitchen.",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "supplier_declared_dg_hz_regulation": [
+   {
+    "value": "not_applicable",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "brand": [
+   {
+    "value": "Generic",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "supplier_declared_has_product_identifier_exemption": [
+   {
+    "value": true,
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "country_of_origin": [
+   {
+    "value": "CN",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "item_name": [
+   {
+    "value": "Manual Fat Trimmer with Stainless Steel Blade, 14 x 7 cm",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "material": [
+   {
+    "value": "Stainless Steel",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   },
+   {
+    "value": "Abs",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   },
+   {
+    "value": "Thermoplastic",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "size": [
+   {
+    "value": "5.51 X 2.76 Inches",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "warranty_description": [
+   {
+    "value": "NAN",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "main_product_image_locator": [
+   {
+    "media_location": "https://m.media-amazon.com/images/I/61RRMwys8jL.jpg",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "parentage_level": [
+   {
+    "value": "parent",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "child_parent_sku_relationship": [
+   {
+    "child_relationship_type": "variation",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "batteries_required": [
+   {
+    "value": false,
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "model_number": [
+   {
+    "value": "5X-Q1H6-6BP1-mx",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "number_of_items": [
+   {
+    "value": 1,
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "item_length_width_height": [
+   {
+    "length": {
+     "value": 14,
+     "unit": "centimeters"
+    },
+    "width": {
+     "value": 7,
+     "unit": "centimeters"
+    },
+    "height": {
+     "value": 2,
+     "unit": "centimeters"
+    },
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "care_instructions": [
+   {
+    "value": "Hand Wash Only",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ]
+ },
+ "child": {
+  "title_differentiation": [
+   {
+    "language_tag": "es_MX",
+    "value": "Non-Slip Ergonomic Handle, Lightweight 72g Design, For Beef, Pork & Brisket, Easy Rinse Clean, Home & Commercial Use",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "color": [
+   {
+    "language_tag": "es_MX",
+    "value": "2pcs",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "variation_theme": [
+   {
+    "name": "COLOR"
+   }
+  ],
+  "included_components": [
+   {
+    "language_tag": "es_MX",
+    "value": "Manual Fat Trimmer X 1",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "item_package_weight": [
+   {
+    "unit": "ounces",
+    "value": 2.54,
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "skip_offer": [
+   {
+    "value": false,
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "fulfillment_availability": [
+   {
+    "fulfillment_channel_code": "DEFAULT",
+    "quantity": 500,
+    "lead_time_to_ship_max_days": 2,
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "manufacturer": [
+   {
+    "language_tag": "es_MX",
+    "value": "EAOEIHD",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "item_weight": [
+   {
+    "unit": "ounces",
+    "value": 2.54,
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "model_name": [
+   {
+    "value": "4Y-09EZ-02EM-mx",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "bullet_point": [
+   {
+    "language_tag": "es_MX",
+    "value": "Sharp Stainless Steel Blade: Slices smoothly through beef, pork, and brisket fat, simplifying meat preparation before cooking.",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   },
+   {
+    "language_tag": "es_MX",
+    "value": "Versatile Meat Prep Tool: Combines cutting and trimming functions to handle a wide range of meat processing tasks for daily kitchen use.",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   },
+   {
+    "language_tag": "es_MX",
+    "value": "Easy to Clean and Portable: Rinses clean easily with water; lightweight design at approximately 2.5 oz ensures comfortable handling during kitchen work.",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   },
+   {
+    "language_tag": "es_MX",
+    "value": "Precision Trimming for Any Kitchen: Removes excess fat and creates uniform portions, reducing prep time and boosting efficiency in both home and commercial kitchens.",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   },
+   {
+    "language_tag": "es_MX",
+    "value": "Ergonomic Non-Slip Handle: Contoured grip with a non-slip surface provides stable, firm control while trimming, helping to reduce hand discomfort during use.",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "product_description": [
+   {
+    "language_tag": "es_MX",
+    "value": "This Manual Fat Trimmer is a practical and efficient kitchen tool designed to simplify meat preparation. Featuring a sharp stainless steel blade, it slices smoothly through fat on beef, pork, brisket, and steak, helping you achieve clean, uniform portions with minimal effort. Whether you're prepping for a weeknight dinner or handling larger quantities in a commercial kitchen, this trimmer combines cutting and trimming functions to handle a wide range of meat processing tasks. Measuring approximately 5.5 x 2.75 inches and weighing just about 2.5 oz, it's lightweight and easy to maneuver. The ergonomic, non-slip handle is contoured to fit comfortably in your hand, providing stable, firm control throughout use and helping to reduce hand fatigue. Constructed from durable stainless steel and ABS with a thermoplastic handle, this trimmer is built for repeated use and rinses clean easily with water. A hanging hole at the base of the handle makes storage convenient. Ideal for both home cooks and culinary professionals, this fat trimmer reduces prep time and boosts efficiency in the kitchen.",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "brand": [
+   {
+    "value": "Generic",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "supplier_declared_dg_hz_regulation": [
+   {
+    "value": "not_applicable",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "supplier_declared_has_product_identifier_exemption": [
+   {
+    "value": true,
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "country_of_origin": [
+   {
+    "value": "CN",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "item_name": [
+   {
+    "value": "Manual Fat Trimmer with Stainless Steel Blade, 14 x 7 cm (2pcs)",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "list_price": [
+   {
+    "currency": "MXN",
+    "value_with_tax": 441.98,
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "batteries_required": [
+   {
+    "value": false,
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "condition_type": [
+   {
+    "value": "new_new",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "item_package_dimensions": [
+   {
+    "height": {
+     "unit": "inches",
+     "value": 2.76
+    },
+    "length": {
+     "unit": "inches",
+     "value": 5.51
+    },
+    "width": {
+     "unit": "inches",
+     "value": 2.76
+    },
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "material": [
+   {
+    "language_tag": "es_MX",
+    "value": "Stainless Steel",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   },
+   {
+    "language_tag": "es_MX",
+    "value": "Abs",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   },
+   {
+    "language_tag": "es_MX",
+    "value": "Thermoplastic",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "size": [
+   {
+    "language_tag": "es_MX",
+    "value": "5.51 X 2.76 Inches",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "warranty_description": [
+   {
+    "language_tag": "es_MX",
+    "value": "NAN",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "other_product_image_locator_4": [
+   {
+    "media_location": "https://m.media-amazon.com/images/I/61IdwfSgjZL.jpg",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "other_product_image_locator_2": [
+   {
+    "media_location": "https://m.media-amazon.com/images/I/61pAl8WG1cL.jpg",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "main_product_image_locator": [
+   {
+    "media_location": "https://m.media-amazon.com/images/I/819E5JvJhYL.jpg",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "other_product_image_locator_3": [
+   {
+    "media_location": "https://m.media-amazon.com/images/I/61BMgcTrKHL.jpg",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "other_product_image_locator_1": [
+   {
+    "media_location": "https://m.media-amazon.com/images/I/61nWMSyM+pL.jpg",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "other_product_image_locator_6": [
+   {
+    "media_location": "https://m.media-amazon.com/images/I/61ACqLbFe8L.jpg",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "other_product_image_locator_5": [
+   {
+    "media_location": "https://m.media-amazon.com/images/I/61PZYlbNKzL.jpg",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "purchasable_offer": [
+   {
+    "currency": "MXN",
+    "audience": "ALL",
+    "our_price": [
+     {
+      "schedule": [
+       {
+        "value_with_tax": 259.99
+       }
+      ]
+     }
+    ],
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "parentage_level": [
+   {
+    "value": "child",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "child_parent_sku_relationship": [
+   {
+    "child_relationship_type": "variation",
+    "parent_sku": "5X-Q1H6-6BP1-mx",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "model_number": [
+   {
+    "value": "4Y-09EZ-02EM-mx",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "number_of_items": [
+   {
+    "value": 1,
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "item_length_width_height": [
+   {
+    "length": {
+     "value": 14,
+     "unit": "centimeters"
+    },
+    "width": {
+     "value": 7,
+     "unit": "centimeters"
+    },
+    "height": {
+     "value": 2,
+     "unit": "centimeters"
+    },
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ],
+  "care_instructions": [
+   {
+    "value": "Hand Wash Only",
+    "language_tag": "es_MX",
+    "marketplace_id": "A1AM78C64UM0Y8"
+   }
+  ]
+ }
+}
